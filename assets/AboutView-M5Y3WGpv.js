@@ -1,0 +1,1 @@
+import{d as o,s as n,u as c,c as u,a as s,i as r,j as i}from"./index-E9fv5Zel.js";const _={class:"aboutPageWrap"},l=s("h1",null,"This is an about page",-1),f=o({__name:"AboutView",setup(p){const t=r(),{changePosture:e}=n(c()),a=()=>{e.value=!e.value,t.push("/")};return(h,d)=>(i(),u("div",_,[s("button",{onClick:a},"111"),l]))}});export{f as default};
